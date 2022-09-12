@@ -36,13 +36,13 @@ In this little assignment you are given a string of space separated numbers, and
 All numbers are valid Int32, no need to validate them.<br>
 There will always be at least one number in the input string.<br>
 Output string must be two numbers separated by a single space, and highest number is first.<br>
-...
-function highAndLow(numbers){<br>
+
+**function highAndLow(numbers){<br>
 numbers=numbers.split(' ');<br>
 numbers.sort(function(a, b){return a - b});<br>
   return `${numbers[(numbers.length-1)]} ${numbers[0]}`<br>
-}<br>
-...
+}**<br>
+
 
 ##  Education
 
