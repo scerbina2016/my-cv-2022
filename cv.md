@@ -53,5 +53,5 @@ numbers.sort(function(a, b){return a - b});<br>
 ## Languages:
 **Russian** - Native edit <br>
 **Ukrainian** - Upper Intermediate <br> 
-**English** - Intermediate <br>
+**English** - Intermediate <br> <br>
 
