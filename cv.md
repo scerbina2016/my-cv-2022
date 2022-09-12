@@ -19,7 +19,6 @@ In my free time, I enjoy parametric design and creating things from eco-tank.<br
 
 ##  Skills:
 
-HTML <br>
 HTML5,CSS <br>
 JavaScript <br>
 Git,GitHab <br>
