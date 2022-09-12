@@ -40,7 +40,7 @@ Output string must be two numbers separated by a single space, and highest numbe
 **function highAndLow(numbers){<br>
 numbers=numbers.split(' ');<br>
 numbers.sort(function(a, b){return a - b});<br>
-  return `${numbers[(numbers.length-1)]} ${numbers[0]}`<br>
+  return ${numbers[(numbers.length-1)]}+" "+${numbers[0]} <br>
 }**<br>
 
 
