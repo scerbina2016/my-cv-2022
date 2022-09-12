@@ -3,9 +3,9 @@
 ## Contact information
 > ***Location:*** Kriviy Rig, Ukraine <br>
 > ***Phone:*** +380 97 692 9783 <br>
-> ***Email:*** scerbina2016@gmail.com
-> ***GitHub:*** scerbina2016
-> ***Telegram:*** AnderLeonidson
+> ***Email:*** scerbina2016@gmail.com <br>
+> ***GitHub:*** scerbina2016 <br>
+> ***Telegram:*** AnderLeonidson <br>
 
 ## About Myself:
 
@@ -37,13 +37,13 @@ In this little assignment you are given a string of space separated numbers, and
 All numbers are valid Int32, no need to validate them.<br>
 There will always be at least one number in the input string.<br>
 Output string must be two numbers separated by a single space, and highest number is first.<br>
-
+...
 function highAndLow(numbers){<br>
 numbers=numbers.split(' ');<br>
 numbers.sort(function(a, b){return a - b});<br>
   return `${numbers[(numbers.length-1)]} ${numbers[0]}`<br>
 }<br>
-
+...
 
 ##  Education
 
@@ -52,7 +52,7 @@ numbers.sort(function(a, b){return a - b});<br>
 
 
 ## Languages:
-**Russian** - Native
-**Ukrainian** - Upper Intermediate 
-**English** - Intermediate 
+**Russian** - Native edit <br>
+**Ukrainian** - Upper Intermediate <br> 
+**English** - Intermediate <br>
 
